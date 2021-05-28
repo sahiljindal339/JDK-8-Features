@@ -1,4 +1,4 @@
-package com.codefx.generic;
+package generic;
 
 public class GiftBox<T> implements Comparable<T>{
 

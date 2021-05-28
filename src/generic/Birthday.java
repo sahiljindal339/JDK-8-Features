@@ -1,4 +1,4 @@
-package com.codefx.generic;
+package generic;
 
 /**
  * @author sahil.kumar01
@@ -7,7 +7,6 @@ package com.codefx.generic;
 public class Birthday {
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		// Note : Need of Generic explain in below code
 		/*
